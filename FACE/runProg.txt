@@ -1,0 +1,2 @@
+cd FACE$
+python3 faceFinding.py
