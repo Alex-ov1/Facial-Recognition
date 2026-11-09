@@ -15,6 +15,11 @@ L'application permet de :
 
 La reconnaissance est effectuée en temps réel grâce à une webcam et à la bibliothèque `face_recognition`.
 
+## 🎥 Démonstration
+
+Cette vidéo présente le fonctionnement du système de reconnaissance faciale en temps réel :
+https://github.com/Alex-ov1/Facial-Recognition/issues/1#issue-6279619253
+
 ## Technologies utilisées
 
 * **Python 3**
