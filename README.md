@@ -18,7 +18,9 @@ La reconnaissance est effectuée en temps réel grâce à une webcam et à la bi
 ## Démonstration
 
 Cette vidéo présente le fonctionnement du système de reconnaissance faciale en temps réel :  
+
 https://github.com/user-attachments/assets/ce643555-d347-4301-a2e5-cbfdaab217ba
+
 
 ## Technologies utilisées
 
